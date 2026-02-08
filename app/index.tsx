@@ -1,3 +1,4 @@
+// Commit 3 - Final polish
 // Commit 2 - UI update
 import { StatusBar } from 'expo-status-bar';
 import { Alert, Image, ScrollView, StyleSheet, Text, View, Button } from 'react-native';
